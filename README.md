@@ -18,5 +18,3 @@ Elaboração de um sistema de estacionamento.
 - Ferramenta Visual Studio Code
 
 ___
-___
-___
