@@ -1,0 +1,11 @@
+C:\Users\Juan\Documents\BotCamp-Avanade-DIO\Projeto1-Estacionamento\EstacionamentoClasses.Common\bin\Debug\net9.0\EstacionamentoClasses.Common.deps.json
+C:\Users\Juan\Documents\BotCamp-Avanade-DIO\Projeto1-Estacionamento\EstacionamentoClasses.Common\bin\Debug\net9.0\EstacionamentoClasses.Common.dll
+C:\Users\Juan\Documents\BotCamp-Avanade-DIO\Projeto1-Estacionamento\EstacionamentoClasses.Common\bin\Debug\net9.0\EstacionamentoClasses.Common.pdb
+C:\Users\Juan\Documents\BotCamp-Avanade-DIO\Projeto1-Estacionamento\EstacionamentoClasses.Common\obj\Debug\net9.0\EstacionamentoClasses.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\BotCamp-Avanade-DIO\Projeto1-Estacionamento\EstacionamentoClasses.Common\obj\Debug\net9.0\EstacionamentoClasses.Common.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\BotCamp-Avanade-DIO\Projeto1-Estacionamento\EstacionamentoClasses.Common\obj\Debug\net9.0\EstacionamentoClasses.Common.AssemblyInfo.cs
+C:\Users\Juan\Documents\BotCamp-Avanade-DIO\Projeto1-Estacionamento\EstacionamentoClasses.Common\obj\Debug\net9.0\EstacionamentoClasses.Common.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\BotCamp-Avanade-DIO\Projeto1-Estacionamento\EstacionamentoClasses.Common\obj\Debug\net9.0\EstacionamentoClasses.Common.dll
+C:\Users\Juan\Documents\BotCamp-Avanade-DIO\Projeto1-Estacionamento\EstacionamentoClasses.Common\obj\Debug\net9.0\refint\EstacionamentoClasses.Common.dll
+C:\Users\Juan\Documents\BotCamp-Avanade-DIO\Projeto1-Estacionamento\EstacionamentoClasses.Common\obj\Debug\net9.0\EstacionamentoClasses.Common.pdb
+C:\Users\Juan\Documents\BotCamp-Avanade-DIO\Projeto1-Estacionamento\EstacionamentoClasses.Common\obj\Debug\net9.0\ref\EstacionamentoClasses.Common.dll
